@@ -1,0 +1,41 @@
+body{
+    
+
+    font-size: 15px;
+}
+.terminar{
+    padding: 10px;
+}
+
+  footer{
+    text-align: center;
+    background-color: #47A992;
+    padding: 20px;
+}
+.text{
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration-line: underline;
+
+}
+.copyright{
+    color: #000000;
+    font-size:13px;
+    margin: 20px; 
+    font-weight: bold;
+}
+.ok{
+background-color: #47A992;
+text-transform: uppercase;
+color:black;
+font-weight:bold;
+font-size: 15px;
+text-decoration: none;
+border-radius: 2px ;
+
+}
+.ok :hover{
+    background-color:darksalmon;
+    font-size: 13px;
+    
+    }
